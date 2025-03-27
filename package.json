@@ -1,0 +1,16 @@
+{
+  "name": "typeracerbot",
+  "version": "1.0.0",
+  "description": "automated unbeatable typeracer bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "feresbr",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^24.4.0",
+    "robotjs": "^0.6.0"
+  }
+}
